@@ -35,11 +35,9 @@
     </style>
 </head>
 <body>
-
-    <h1> Sales Dashboard Project (MS Excel)</h1>
-
-    <div class="section">
-        <h2>📌 Project Overview</h2>
+ <h1> Sales Dashboard Project (MS Excel)</h1>
+  <div class="section">
+        <h2> Project Overview</h2>
         <p>
             This project focuses on creating an interactive <strong>Sales Dashboard using Microsoft Excel</strong>.
             The goal is to analyze sales data, extract meaningful insights, and present them visually using PivotTables
@@ -47,8 +45,8 @@
         </p>
     </div>
 
-    <div class="section">
-        <h2>🛠 Tools & Technologies</h2>
+<div class="section">
+    <h2>🛠 Tools & Technologies</h2>
         <ul>
             <li>Microsoft Excel</li>
             <ul>
@@ -61,7 +59,7 @@
         </ul>
     </div>
 
-    <div class="section">
+  <div class="section">
         <h2> Dataset Description</h2>
         <p>The dataset contains sales-related information such as:</p>
         <ul>
@@ -75,7 +73,7 @@
         <p><em>(Dataset was cleaned and transformed before analysis.)</em></p>
     </div>
 
-    <div class="section">
+<div class="section">
         <h2>Data Preparation Steps</h2>
         <ol>
             <li><strong>Data Cleaning</strong>
@@ -100,7 +98,7 @@
         </ol>
     </div>
 
-    <div class="section">
+  <div class="section">
         <h2> Dashboard Features</h2>
         <ul>
             <li>Interactive PivotTables</li>
@@ -116,7 +114,7 @@
         </ul>
     </div>
 
-    <div class="section">
+<div class="section">
         <h2>Key Insights</h2>
         <ul>
             <li>Sales trends over time</li>
@@ -126,7 +124,7 @@
         </ul>
     </div>
 
-    <div class="section">
+   <div class="section">
         <h2> Objective</h2>
         <p>
             To transform raw sales data into a visually appealing and easy-to-understand dashboard
