@@ -10,8 +10,12 @@
         </p>
     </div>
 
+<img width="1907" height="1014" alt="Screenshot (3341)" src="https://github.com/user-attachments/assets/899bd07e-5503-4fb6-a229-63505f67101c" />
+
+
+
 <div class="section">
-    <h2>🛠 Tools & Technologies</h2>
+    <h2>Tools</h2>
         <ul>
             <li>Microsoft Excel</li>
             <ul>
